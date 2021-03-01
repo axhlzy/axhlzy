@@ -3,9 +3,9 @@
   <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=axhlzy&layout=compact&hide_border=true&langs_count=10&hide=jupyter%20notebook,tex,css,php">
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img align="left" src ="https://github-readme-stats.vercel.app/api/pin/?username=axhlzy&repo=Il2CppDumperTool">
-</p>
+</p> -->
 
 ## 𝗩𝗶𝘀𝗶𝘁𝗼𝗿𝘀
 
