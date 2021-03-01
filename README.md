@@ -8,11 +8,6 @@
   <img align="right" src ="https://github-readme-stats.vercel.app/api/pin/?username=axhlzy&repo=pixel-weather">
 </p> -->
 
-
-<!--
-**Axhlzy/axhlzy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
 ## 𝗩𝗶𝘀𝗶𝘁𝗼𝗿𝘀
 
 
@@ -22,6 +17,12 @@
     <td><img src="https://profile-counter.glitch.me/axhlzy/count.svg" alt="" /></td>
   </tr>
 </table>
+
+<!--
+**Axhlzy/axhlzy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
+
 
 Here are some ideas to get you started:
 
