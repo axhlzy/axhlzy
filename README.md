@@ -2,9 +2,9 @@
 
 - 🔭 19年毕业于物联网工程专业，就职在一家游戏广告逆向公司
 
-- 😄 有一定的安卓开发经验，比较爱折腾，熟悉frida,arm,smali,dex,elf 等安卓逆向相关
+- 😄 有一定的安卓开发经验，熟悉frida,arm,smali,dex,elf 等安卓逆向相关
 
-- 🌱 目前呢就想着再深入了解一下art虚拟机，inlinehook实现 等等这些东西
+- 🌱 目前呢就想着再深入了解一下art虚拟机，inlinehook实现，折腾 dexlib2,unidbg 等等
 
 - 📫 这是我的博客 ： [简书](https://www.jianshu.com/u/d6bd8ae8f6b0)  [看雪论坛](https://bbs.pediy.com/user-home-868525.htm)
     
