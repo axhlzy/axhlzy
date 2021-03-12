@@ -1,8 +1,10 @@
 # 𝗛𝗲𝗹𝗹𝗼 𝗜'𝗺 axhlzy 👋!
 
-- 🔭 毕业于物联网工程，工作于一家游戏逆向公司
+- 🔭 19年毕业于物联网工程专业，就职在一家游戏广告逆向公司
 
-- 🌱 目前呢就想着再深入了解一下art虚拟机，inlinehook等等这些东西
+- 😄 有一定的安卓开发经验，比较熟悉frida,arm,smali,dex,elf等安卓逆向相关
+
+- 🌱 目前呢就想着再深入了解一下art虚拟机，inlinehook实现 等等这些东西
 
 - 📫 这是我的博客 ： [简书](https://www.jianshu.com/u/d6bd8ae8f6b0)  [看雪论坛](https://bbs.pediy.com/user-home-868525.htm)
     
