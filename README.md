@@ -1,10 +1,12 @@
 # 𝗛𝗲𝗹𝗹𝗼 𝗜'𝗺 axhlzy 👋!
 
-- 🔭 19年毕业于物联网工程专业，现在做游戏逆向
+- 🔭 物联网工程专业，现在做安卓逆向 / Unity游戏相关逆向
 
 - 😄 安卓开发出身，熟悉frida,arm,smali,dex,elf...
 
-- 🌱 折腾art虚拟机，inlinehook,dexlib2,unidbg,unicorn,keystone,capstorn 等等
+- 🌱 折腾art虚拟机，inlinehook,dexlib2,unidbg,unicorn,keystone,capstorn ...
+
+- 🙋 TODO / Doing : eBPF (libbpf_android.so), ArtHook ...
 
 - 📫 这是我的博客 ： [简书](https://www.jianshu.com/u/d6bd8ae8f6b0)  [看雪论坛](https://bbs.pediy.com/user-home-868525.htm) | QQ:597290673
 
