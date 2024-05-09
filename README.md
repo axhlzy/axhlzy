@@ -12,7 +12,7 @@
 
 
 <picture>
-  <img alt="github-snake" src="https://github.com/axhlzy/axhlzy/blob/main/assets/github-contribution-grid-snake.svg">
+  <img alt="github-snake" src="https://github.com/axhlzy/axhlzy/blob/main/assets/github-contribution-grid-snake-ocean.gif">
 </picture>
 
  
