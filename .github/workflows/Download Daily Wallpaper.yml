@@ -21,20 +21,11 @@ jobs:
         with:
           node-version: ${{ matrix.node-version }}
    
-      - name: Download Unslpash daily image
+      - name: Download Unsplash daily image
         run: |
-          npm i -g unsplash-wallpaper
+          npm i -g unsplash-js
           cd ./assets/
-          unsplash-wallpaper --featured --search wallpapers --daily --width 4096 --height 2160
-          mv -fv wallpaper-photo*.jpg unsplash_wallpaper_4k.jpg
-          unsplash-wallpaper --featured --search wallpapers --daily --width 1920 --height 1080
-          mv -fv wallpaper-photo*.jpg unsplash_wallpaper_1080p.jpg
-          
-      - name: Download Bing wallpaper
-        run: |
-          cd ./assets/
-          curl "https://bing.ioliu.cn/v1/rand?w=4096&h=2160" -o "bing_wallpaper_4k.jpg"
-          curl "https://bing.ioliu.cn/v1/rand?w=1920&h=1080" -o "bing_wallpaper_1080p.jpg"
+          node -e "const { toJson } = require('unsplash-js'); const fetch = require('node-fetch'); const Unsplash = require('unsplash-js').default; const unsplash = new Unsplash({ accessKey: '${{ secrets.UNSPLASH_ACCESS_KEY }}' }); unsplash.photos.getRandomPhoto({ featured: true }).then(toJson).then(json => { fetch(json.urls.full).then(response => { const dest = fs.createWriteStream('unsplash_wallpaper.jpg'); response.body.pipe(dest); }); });"
           
       - name: Push to GitHub
         uses: EndBug/add-and-commit@v7
