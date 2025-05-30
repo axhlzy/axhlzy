@@ -2,11 +2,7 @@
 
 - 🔭 物联网工程专业，现在做安卓逆向 / Unity游戏相关逆向
 
-- 😄 安卓开发出身，熟悉frida,arm,smali,dex,elf...
-
-- 🌱 正在学习ebpf，frida源码，折腾art虚拟机，inlinehook,dexlib2,unidbg,unicorn,keystone,capstorn ...
-
-- 🙋 TODO / Doing : eBPF (libbpf_android.so), ArtHook ...
+- 🌱 正在学习ebpf，frida源码，art虚拟机，unidbg，算法demo，aptach kernel hook
 
 - 📫 这是我的博客 ：[BLOG](https://www.axhlzy.top)   [简书](https://www.jianshu.com/u/d6bd8ae8f6b0)   [看雪论坛](https://bbs.pediy.com/user-home-868525.htm) | QQ:597290673
 
